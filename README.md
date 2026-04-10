@@ -1,2 +1,2 @@
 # pinentry-tofi
-pinentry-dmenu adapted for tofi
+[pinentry-dmenu](https://github.com/inco-cc/pinentry-dmenu) adapted for tofi
